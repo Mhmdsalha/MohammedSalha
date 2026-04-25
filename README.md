@@ -92,12 +92,6 @@ A full-stack system designed to manage and track graduation projects with real-t
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdsalha021\&show_icons=true)
-
----
-
 ## 🎯 Current Focus
 
 * Building scalable systems
